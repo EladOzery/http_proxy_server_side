@@ -1,6 +1,4 @@
-209347533
 Elad Ozery
-ex2_b
 proxyServer.c - Proxy server simulator. Receive GET request from client, send it to the server, and forwards server response back to the client
 threadpool.c - Responsible for creating and managing the threads. Each thread handles a single client request.
 README.txt
